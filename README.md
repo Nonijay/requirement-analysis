@@ -60,8 +60,6 @@ Requirement Analysis is a critical phase in the software development lifecycle (
         - Booking System: Users should be able to book properties, view booking details, and manage their bookings.
         - User Authentication: Secure login and registration process for users
 
-
-
 ### Non-functional Requirements
    - Definition: Describe how the system should perform.
    - Examples: Performance, security, scalability, usability, reliability.
@@ -72,3 +70,30 @@ Requirement Analysis is a critical phase in the software development lifecycle (
       - Scalability: The system should be able to scale horizontally to handle increased traffic.
       - Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
       - Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
+
+# Use Case Diagrams.
+## What is a Use Case Diagram
+   Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+### Creating Use Case Diagrams:
+   - Identify actors (e.g., guest, registered user, admin).
+   - Define use cases (e.g., search properties, book property, manage listings).
+   - Draw interactions between actors and use cases.
+### Benefits of Use Case Diagrams
+   - Provide a clear visual representation of system functionalities.
+   - Help in identifying and organizing system requirements.
+   - Facilitate communication among stakeholders and development team.
+
+### Use Case Diagram for booking system
+
+# Acceptance Criteria.
+### What is Acceptance Criteria?
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+
+### How to Define Acceptance Criteria:
+   - Be specific and measurable.
+   - Include functional and non-functional aspects.
+   - Example for Booking System: “Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.”
+### Benefits of Acceptance Criteria:
+   - Ensure all parties have a clear understanding of feature requirements.
+   - Provide a basis for testing and validation.
+   - Help in maintaining quality and meeting user expectations.
